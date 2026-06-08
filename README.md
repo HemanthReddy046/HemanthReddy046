@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Hemanth Reddy 👋</h1>
+<h1 align="center">Hi, I'm Pothala Hemanth Reddy 👋</h1>
 
 <p align="center">
-  <b>B.Tech Computer Engineering Graduate</b><br>
+  <b>B.Tech Computer Science & Engineering Graduate</b><br>
   Passionate about Software Development · Data Analytics · Machine Learning
 </p>
 
@@ -17,13 +17,41 @@
 
 ## About Me
 
-I'm a recent B.Tech Computer Engineering graduate with hands-on experience building Python applications, machine learning models, and full-stack web projects. I enjoy solving real-world problems through clean, functional code — whether that's a desktop application backed by SQLite, a predictive ML model, or a deployed web portal.
+Aspiring Software Developer from Gudur, India with a strong foundation in Python, Java, SQL, and web technologies. I enjoy solving real-world problems through clean, functional code — whether that's a machine learning model, a desktop application, or a deployed web portal.
 
-- 🎓 B.Tech in Computer Engineering
+- 🎓 B.Tech in Computer Science & Engineering — **Audisankara College of Engineering and Technology** (2023–2026) · **8.7 CGPA**
 - 🔍 Actively seeking roles in **Software Development**, **Data Analytics**, and **Machine Learning**
-- 🛠️ Primary language: **Python** — also comfortable with **HTML**, **CSS**, and **TypeScript**
-- 🌐 Some of my projects are live and deployed (GitHub Pages, Vercel)
+- 🛠️ Primary languages: **Python** and **Java** — also comfortable with **HTML**, **CSS**, and **SQL**
+- 🌐 Projects deployed on Streamlit, GitHub Pages, and Vercel
+- 📍 Gudur, Andhra Pradesh, India
 - 📬 Always open to collaboration and new opportunities
+
+---
+
+## Education
+
+| Degree | Institution | Year | Score |
+|---|---|---|---|
+| 🎓 B.Tech — Computer Science & Engineering | Audisankara College of Engineering and Technology | 2023 – 2026 | **8.7 CGPA** |
+| 📘 Diploma — Computer Engineering | Audisankara College of Engineering and Technology | 2020 – 2023 | **83.38%** |
+| 🏫 SSC | Narayana English Medium School | 2020 | **93%** |
+
+---
+
+## Certifications
+
+- 📊 **Business Analytics and Project Management** — Coursera
+- 🗄️ **SQL Basics** — HackerRank
+- 💻 **Software Engineering Basics for Everyone** — edX
+- 🤖 **Machine Learning Using Python** — Simplilearn
+
+---
+
+## Achievements
+
+- 🚁 Participated in **Drone Engineering & Emerging Technology Workshops**
+- 🎮 Participated in **Gameathon** conducted by SRM Easwari Engineering College
+- 📈 Completed **Deloitte Data Analytics Job Simulation**
 
 ---
 
@@ -32,23 +60,30 @@ I'm a recent B.Tech Computer Engineering graduate with hands-on experience build
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **Machine Learning & Data**
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Database**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 **GUI & Desktop**
 
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 **Web & Deployment**
 
+![Streamlit](https://img.shields.io/badge/Streamlit%20Cloud-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=github&logoColor=white)
 
@@ -57,22 +92,23 @@ I'm a recent B.Tech Computer Engineering graduate with hands-on experience build
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 
 ---
 
 ## Featured Projects
 
 ### 🤖 [Car Price Prediction Using ML Algorithms](https://github.com/HemanthReddy046/car-price-prediction-Using-ML-Algorithms)
-A machine learning project that predicts used car prices using regression algorithms. Involves data preprocessing, feature engineering, model training, and evaluation across multiple ML algorithms.
+A machine learning web application that predicts used car prices and generates analytical insights. Involves data preprocessing, feature engineering, model training, and evaluation across multiple ML algorithms.
 
-`Python` `scikit-learn` `Pandas` `NumPy` `Machine Learning` · [**Live Demo →**](https://car-price-prediction-x7whzs5ckgceqdwbwmn2fk.streamlit.app/)
+`Python` `scikit-learn` `Pandas` `NumPy` `Streamlit` · [**Live Demo →**](https://car-price-prediction-x7whzs5ckgceqdwbwmn2fk.streamlit.app/)
 
 ---
 
-### 🧑‍🎓 [Student Management System (Desktop App)](https://github.com/HemanthReddy046/Student_Managment_System_Using-Python)
-A desktop application built with Python, Tkinter, and SQLite for managing student records. Supports full CRUD operations — create, read, update, and delete — through a clean GUI.
+### 🧑‍🎓 [Student Management System](https://github.com/HemanthReddy046/Student_Managment_System_Using-Python)
+A GUI-based student record management system with full CRUD operations and SQLite database integration, built with Python and Tkinter.
 
-`Python` `Tkinter` `SQLite` `CRUD` `Desktop App` · [**Live Demo →**](https://student-management-system-gyyxnkhrdf5cwhxrzsnz95.streamlit.app/)
+`Python` `Tkinter` `SQLite` `CRUD` · [**Live Demo →**](https://student-management-system-gyyxnkhrdf5cwhxrzsnz95.streamlit.app/)
 
 ---
 
@@ -84,7 +120,7 @@ A full-stack web portal for trip and tourism management, deployed live on Vercel
 ---
 
 ### 🔐 [Secure Password Generator](https://github.com/HemanthReddy046/Secure_Password_Generator)
-A Python-based tool for generating secure, customizable passwords. Includes a GUI interface built with Tkinter.
+A Python-based desktop tool for generating secure, customizable passwords with a Tkinter GUI.
 
 `Python` `Tkinter` `Security`
 
