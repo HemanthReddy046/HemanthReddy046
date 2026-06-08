@@ -65,14 +65,14 @@ I'm a recent B.Tech Computer Engineering graduate with hands-on experience build
 ### 🤖 [Car Price Prediction Using ML Algorithms](https://github.com/HemanthReddy046/car-price-prediction-Using-ML-Algorithms)
 A machine learning project that predicts used car prices using regression algorithms. Involves data preprocessing, feature engineering, model training, and evaluation across multiple ML algorithms.
 
-`Python` `scikit-learn` `Pandas` `NumPy` `Machine Learning`
+`Python` `scikit-learn` `Pandas` `NumPy` `Machine Learning` · [**Live Demo →**](https://car-price-prediction-x7whzs5ckgceqdwbwmn2fk.streamlit.app/)
 
 ---
 
 ### 🧑‍🎓 [Student Management System (Desktop App)](https://github.com/HemanthReddy046/Student_Managment_System_Using-Python)
 A desktop application built with Python, Tkinter, and SQLite for managing student records. Supports full CRUD operations — create, read, update, and delete — through a clean GUI.
 
-`Python` `Tkinter` `SQLite` `CRUD` `Desktop App`
+`Python` `Tkinter` `SQLite` `CRUD` `Desktop App` · [**Live Demo →**](https://student-management-system-gyyxnkhrdf5cwhxrzsnz95.streamlit.app/)
 
 ---
 
